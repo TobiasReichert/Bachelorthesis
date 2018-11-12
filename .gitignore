@@ -1,0 +1,88 @@
+# DB
+*.db
+
+*/nbproject/private/
+*/build/
+*/nbbuild/
+*/dist/
+*/nbdist/
+*/.nb-gradle/
+
+# no DB-files
+*.db
+#latex
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.synctex.gz
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+# makeidx
+*.idx
+*.ilg
+*.ind
+*.ist
+## Auxiliary and intermediate files from other packages:
+# algorithms
+*.alg
+*.loa
+# listings
+*.lol
+/example/Notes/nbproject/private/
+/example/TimeTracker/nbproject/private/
+/example/Notes/build/
+/example/Notes/dist/
+
+#Android
+
+/example/Android_Notes/build/
+# Built application files
+/*/build/
+# Crashlytics configuations
+com_crashlytics_export_strings.xml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle generated files
+.gradle/
+
+# Signing files
+.signing/
+
+# User-specific configurations
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+*.iml
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
